@@ -1,0 +1,1 @@
+Put your copy of the Mako SWIG NuGet package in this folder.

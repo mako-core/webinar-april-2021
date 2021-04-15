@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Valkyrie.UniversalPrint": {
+      "commandName": "Project",
+      "commandLineArgs": "tasks poll b65f23e0-f650-45d8-8e00-80f7b27bc7a1 dc230592-7f58-472d-989a-afa8de9a61a5"
+    }
+  }
+}
